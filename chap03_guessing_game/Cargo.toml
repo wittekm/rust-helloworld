@@ -2,3 +2,6 @@
 name = "guessing_game"
 version = "0.1.0"
 authors = ["Max Wittek <maxwittek@gee_em_ay_eye_ell.kom>"]
+
+[dependencies]
+rand="*"

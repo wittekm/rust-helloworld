@@ -1,2 +1,3 @@
-Taking a break inbetween jobs? Great time to learn a new language!
-Following https://doc.rust-lang.org/book/hello-world.html
+Rust Helloworld
+==============
+I'm following https://doc.rust-lang.org/book/hello-world.html because I'm taking a break inbetween jobs. Woo.
