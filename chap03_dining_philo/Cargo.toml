@@ -1,0 +1,4 @@
+[package]
+name = "chap03_dining_philosophers"
+version = "0.1.0"
+authors = ["Max Wittek <maxwittek@gee_em_ay_eye_ell.kom>"]
